@@ -4,7 +4,7 @@ KAware targets **self-awareness capability**: an agent's ability to distinguish 
 
 This directory contains a minimal preview version.
 
-![KAware](./figure/figure.pdf)
+![KAware](./figure/figure.png)
 
 ## 🔍 Overview
 
@@ -39,7 +39,7 @@ KAware/
 |-- Hybrid_Function/          # Mixed internal and tool-dependent tasks
 |-- Internal_Function/        # Internally solvable tasks
 |-- figure/
-|   `-- figure.pdf           # Main paper figure
+|   `-- figure.png           # Main paper figure
 |-- run_prompt_call_minimal.py
 |-- run_function_call_minimal.py
 ```
